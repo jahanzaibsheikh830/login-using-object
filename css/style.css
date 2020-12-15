@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img, video, embed{
+    width: 100%;
+}
+.form-container{
+    background-color: #424242;
+    padding: 30px;
+    color: #ffffff;
+}
+.bg-form{
+    background-image: url('../images/formpic.jpg');
+}
+footer img{
+    width: 80px;
+    height: 80px;
+}
+footer a i{
+    color: #ffffff;
+}
+button{
+    border: none;
+    background-color: rgba(0, 0, 0, 0);
+    color: #ffffff;
+    text-decoration: underline;
+    cursor: pointer;
+}
+button:hover{
+    color: blue;
+}
